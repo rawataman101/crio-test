@@ -3,3 +3,4 @@ Fintech
 MedTech
 GovTech
 FashionTech
+Wearable Devices
