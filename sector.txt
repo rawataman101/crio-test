@@ -2,3 +2,4 @@ HEalthcare
 Fintech
 MedTech
 GovTech
+FashionTech
